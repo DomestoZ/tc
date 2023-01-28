@@ -1,0 +1,271 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #14274b;
+}
+/* main */
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.main-content{
+   background-color: #1e3e4b;
+   box-shadow: 6px 6px 20px rgba(0, 0, 0, 1);
+   padding: 105px 90px;
+}
+
+.about{
+margin-bottom: 40px;
+}
+
+.about-position{
+ font-style: normal;
+ font-weight: bold;
+ font-size: 14px;
+ line-height: 17px;
+ color: rgb(255, 255, 255);
+ margin-bottom: 20px;
+}
+
+.about-name{
+ font-style: normal;
+ font-weight: bold;
+ font-size: 45px;
+ line-height: 55px;
+ color: rgb(255, 255, 255);
+ margin-bottom: 25px;
+}
+
+.about-description{
+ font-style: normal;
+ font-weight: normal;
+ font-size: 14px;
+ line-height: 24px;
+ color: #A8A8A8;
+ width: 400px;
+}
+
+.projects{
+    margin-bottom: 50px;
+}
+
+
+.title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px; 
+}
+
+.prodlect-list{
+padding: 0;
+margin-left: 15px;
+}
+
+.progects-item{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(255, 255, 255);
+    }
+
+.project,
+.project-link {   
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+
+color: #A8A8A8;
+
+}
+.project-link {
+    margin-left: 10px;
+}
+
+.project-bracket{ 
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(255, 255, 255);
+}
+
+.work-position{
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: rgb(255, 255, 255);
+margin-bottom: 10px;
+}
+
+.freelance,
+.new,
+.llc
+{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #fb6d3a;
+}
+.period{
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8;
+margin-bottom: 10px;
+}
+
+.line{
+ font-style: normal;
+ font-weight: normal;
+ font-size: 12px;
+ line-height: 15px;
+ color: rgb(255, 255, 255);
+
+}
+
+.work-list{
+padding: 0;
+margin-left: 15px;
+
+}
+
+.w-l-i{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #A8A8A8;
+}
+
+.Education{
+margin-bottom: 10px;
+}
+
+.univer{
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #FB6D3A;
+margin-bottom: 10px;
+}
+
+.manedgment{ 
+font-style: normal;
+font-weight: bold ;
+font-size: 14px;
+line-height: 17px;
+color: rgb(255, 255, 255);
+margin-bottom: 10px;
+}
+
+.date{
+font-style: normal;
+font-weight: normal ;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8
+}
+
+.line-u{
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: rgb(255, 255, 255);
+}
+
+
+.sidebar{
+    background-color: #377267;
+    padding-top: 40px;
+    width: 330px;
+}
+
+.photo{
+    width: 330px;
+}
+
+.contacts,
+.soft-skills,
+.tech-skills{
+    margin: 40px;
+}
+
+.contacts{
+    margin-bottom: 50px;
+}
+
+.sadebar-title{
+    color: #fff;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;margin-bottom: 10px;
+}
+
+.contacts-type{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+.link{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(255, 255, 255);
+}
+
+.tech-skills-list{
+color: #fff;
+padding: 0;
+margin-left: 17px;
+}
+
+.tech-skills-text{
+color: #fff;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+}
+
+.tech-skills-items{
+color: #fb6d3a;
+}
+
+.soft-skills{
+    margin-bottom: 40xp;
+}
+.soft-skills-items{
+color: #fb6d3a;   
+}
+
+.soft-skills-text{
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px; 
+}
+
+.soft-skills-list{
+color: #fff;
+padding: 0;
+margin-left: 17px;
+}
